@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 image: gitpod/workspace-dotnet
+=======
+# image: gitpod/workspace-dotnet
+>>>>>>> 44adc411f6c0527ae863631ef2bfd88b93ab0ffe
 
 tasks:
   - init: dotnet build
