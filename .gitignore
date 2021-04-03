@@ -28,8 +28,4 @@ bld/
 [Oo]ut/
 msbuild.log
 msbuild.err
-<<<<<<< HEAD
 msbuild.wrn
-=======
-msbuild.wrn
->>>>>>> 44adc411f6c0527ae863631ef2bfd88b93ab0ffe
